@@ -10,7 +10,7 @@
 
 ## My Library
 
-[![Github](https://img.icons8.com/github)](https://github.com/mowaisch/react-native-animated-border-view)
+[![Github](https://img.icons8.com/color/48/000000/github)](https://github.com/mowaisch/react-native-animated-border-view)
 [![NPM](https://img.icons8.com/color/48/000000/npm.png)](https://www.npmjs.com/package/react-native-animated-border-view)
 
 ## 💡 Dev Quote
@@ -19,9 +19,7 @@
 
 ## Connect with me:
 
-[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/yourprofile)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammad-owais-9200b9211/)
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/yourprofile)
 
 ## Languages:
 
