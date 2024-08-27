@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Owais
 
-![Banner Image](https://github.com/mowaisch/mowaisch/blob/main/assets/banner.jpeg?raw=true)
+![Banner Image](https://github.com/mowaisch/mowaisch/blob/main/assets/banner.gif?raw=true)
 
 - 🚀 **Mobile App Developer** | **React Native Expert** | **Node.js Developer**
 - 🛠️ Specializing in developing high-performance mobile applications using React Native.
