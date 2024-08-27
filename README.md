@@ -1,20 +1,19 @@
 # Hi 👋, I'm Muhammad Owais
 
-- 🚀 **Freelance Web Developer** | **MERN Stack Developer** | **Full Stack Developer**
-- 🛠️ Crafting professional websites to enhance your online presence.
-- 🌱 Currently learning advanced React and Node.js techniques.
-- 👨‍💻 Always open to freelance opportunities or collaborations.
-- 📫 How to reach me: [mowaisch@gmail.com](mailto:mowaisch@gmail.com)
+- 🚀 **Freelance Mobile App Developer** | **React Native Expert** | **Node.js Developer**
+- 🛠️ Specializing in developing high-performance mobile applications using React Native.
+- 🌱 Currently enhancing skills in advanced React Native and Node.js techniques.
+- 👨‍💻 Open to freelance opportunities, particularly in mobile app development and backend solutions.
+- 📫 How to reach me: [mowais@devixis.com](mailto:mowais@devixis.com)
 
 ## 🛠 Tech Stack
-- **Languages:** JavaScript, TypeScript, Python
-- **Frameworks/Libraries:** React, Next.js, Node.js, Express.js, Bootstrap
+- **Languages:** JavaScript, TypeScript
+- **Frameworks/Libraries:** React Native, React, Node.js, Express.js
 - **Tools:** Git, GitHub, VS Code, MongoDB, Firebase
 
 ## 📈 GitHub Stats
 ![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=mowaisch&show_icons=true&theme=radical)
 
 ## 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-owais-9200b9211/)
 - [Portfolio](https://yourportfolio.com)
-
