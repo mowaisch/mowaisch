@@ -33,4 +33,6 @@
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mowaisch&layout=compact&theme=radical)
-![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=mowaisch&show_icons=true&theme=radical)
+![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=mowaisch&show_icons=true&theme=radical&count_private=true&token=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)
+
+
