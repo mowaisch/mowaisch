@@ -19,7 +19,7 @@
 
 ## Connect with me:
 
-[![Email](https://img.icons8.com/ios-filled/50/000000/secured-letter.png)](mailto:mowais@devixis.com)
+[![Email](https://img.icons8.com/color/48/000000/new-post.png)](mailto:mowais@devixis.com)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/muhammad-owais-9200b9211/)
 
 ## Languages:
