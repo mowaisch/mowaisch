@@ -8,26 +8,14 @@
 - 👨‍💻 Open to freelance opportunities, particularly in mobile app development and backend solutions.
 - 📫 How to reach me: [mowais@devixis.com](mailto:mowais@devixis.com)
 
-## 💡 My Library
+## My Library
 
 [![Github](https://img.icons8.com/github)](https://github.com/mowaisch/react-native-animated-border-view)
 [![NPM](https://img.icons8.com/color/48/000000/npm.png)](https://www.npmjs.com/package/react-native-animated-border-view)
 
-## 💡 Random Dev Quote
+## 💡 Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 👀 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=mowaisch&color=blue&style=flat-square)
-
-## 🌆 GitHub Skyline
-
-![GitHub Skyline](https://skyline.github.com/mowaisch/2023.png)
-
-## 📜 Programming Quote
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)
 
 ## Connect with me:
 
@@ -42,7 +30,3 @@
 ## Tools:
 
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/> <img src="https://img.icons8.com/color/48/000000/figma.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
-
-## GitHub Stats
-
-![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=mowaisch&show_icons=true&theme=radical)
