@@ -12,7 +12,7 @@
 [![Github](https://img.icons8.com/color/48/000000/github)](https://github.com/mowaisch/react-native-animated-border-view)
 [![NPM](https://img.icons8.com/color/48/000000/npm.png)](https://www.npmjs.com/package/react-native-animated-border-view)
 
-## 💡 Dev Quote
+## Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
